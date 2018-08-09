@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  text-align: center;
+}
+
+canvas {
+  background: #fff;
+  height: 70vmin;
+}
